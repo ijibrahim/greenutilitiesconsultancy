@@ -1,5 +1,26 @@
+
+<?php $page = 'contact'	 ?>
     <!-- Content -->
     <div class="page-content bg-white">
+
+    	<!-- inner page banner -->
+        <div class="dlab-bnr-inr overlay-black-middle bg-pt" style="background-image:url(images/banner/bnr6.jpg); background-size: cover;">
+            <div class="container">
+                <div class="dlab-bnr-inr-entry">
+                    <h1 class="text-white">Contact Us</h1>
+					<!-- Breadcrumb row -->
+					<div class="breadcrumb-row">
+						<ul class="list-inline">
+							<li><a href="index.html">Home</a></li>
+							<li>Contact</li>
+						</ul>
+					</div>
+					<!-- Breadcrumb row END -->
+                </div>
+            </div>
+        </div>
+        <!-- inner page banner END -->
+
         <!-- Contact Form -->
 		<div class="section-full content-inner contact-page-9 overlay-black-dark" style="background-image: url(images/background/bg5.jpg); background-position: 30% 100%">
 			<div class="container">
@@ -47,13 +68,13 @@
 					<div class="col-lg-8 col-md-12 m-b30">
 						<form class="inquiry-form wow box-shadow bg-white fadeInUp" data-wow-delay="0.2s">
 							<h3 class="title-box font-weight-300 m-t0 m-b10">Let's Convert Your Idea into Reality <span class="bg-primary"></span></h3>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+							
 							<div class="row">
 								<div class="col-lg-6 col-md-6">
 									<div class="form-group">
 										<div class="input-group">
 											<span class="input-group-addon"><i class="ti-user text-primary"></i></span>
-											<input name="dzName" type="text" required class="form-control" placeholder="First Name">
+											<input name="dzName" type="text" required class="form-control" placeholder="Full Name">
 										</div>
 									</div>
 								</div>
@@ -67,41 +88,28 @@
 								</div>
 								<div class="col-lg-12 col-md-12">
 									<div class="form-group">
-										<div class="input-group"> 
-											<span class="input-group-addon"><i class="ti-email text-primary"></i></span>
-											<input name="dzEmail" type="email" class="form-control" required  placeholder="Your Email Id" >
-										</div>
-									</div>
-								</div>
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
 										<div class="input-group">
 											<span class="input-group-addon"><i class="ti-check-box text-primary"></i></span>
 											<select>
-												<option>Select Industry</option>
-												<option>Oil/Gas Plant</option>
-												<option>Steel Plant</option>
-												<option>Factory</option>
-												<option>Construct</option>
-												<option>Solar Plant</option>
-												<option>Food Industry</option>
-												<option>Agriculture</option>
-												<option>Ship Industry</option>
-												<option>Leather Industry</option>
-												<option>Nuclear Plant</option>
-												<option>Beer Factory</option>
-												<option>Mining Industry</option>
-												<option>Car Industry</option>
-												<option>Plastic Industry</option>
+												<option disabled selected>Select Service Type</option>
+												<option>Commercial Electricity</option>
+												<option>Commercial Gas</option>
+												<option>Commercial Water</option>
+												<option>Energy Management</option>
+												<option>Bills Validation</option>
+												<option>Meter Installation</option>
+												<option>Card Machine</option>
+												<option>E-POS</option>
+												<option>Payment Gateway</option>
 											</select>
 										</div>
 									</div>
 								</div>
-								<div class="col-lg-6 col-md-6">
+								<div class="col-lg-12 col-md-12">
 									<div class="form-group">
-										<div class="input-group">
-											<span class="input-group-addon"><i class="ti-file text-primary"></i></span>
-											<input name="dzOther[Subject]" type="text" required class="form-control" placeholder="Upload File">
+										<div class="input-group"> 
+											<span class="input-group-addon"><i class="ti-email text-primary"></i></span>
+											<input name="dzEmail" type="email" class="form-control" required  placeholder="Email Id" >
 										</div>
 									</div>
 								</div>
@@ -109,7 +117,7 @@
 									<div class="form-group">
 										<div class="input-group">
 											<span class="input-group-addon"><i class="ti-agenda text-primary"></i></span>
-											<textarea name="dzMessage" rows="4" class="form-control" required placeholder="Tell us about your project or idea"></textarea>
+											<textarea name="dzMessage" rows="4" class="form-control" required placeholder="Tell us about your query"></textarea>
 										</div>
 									</div>
 								</div>
@@ -125,3 +133,5 @@
         <!-- Contact Form END -->
     </div>
     <!-- Content END-->
+
+    <br><br>

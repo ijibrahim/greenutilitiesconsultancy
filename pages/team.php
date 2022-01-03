@@ -1,7 +1,7 @@
     <!-- Content -->
     <div class="page-content bg-white">
         <!-- inner page banner -->
-        <div class="dlab-bnr-inr overlay-black-middle bg-pt" style="background-image:url(images/banner/bnr4.jpg);">
+        <div class="dlab-bnr-inr overlay-black-middle bg-pt" style="background-image:url(images/banner/bnr4.jpg); background-position: center; background-size: cover;">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
                     <h1 class="text-white">Team</h1>
@@ -23,8 +23,8 @@
 			<div class="section-full content-inner">
 				<div class="container">
 					<div class="section-head text-black text-center">
-						<h2 class="title">Meet Our Team</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p>
+						<h2 class="title text-uppercase font-weight-bold">Meet Our Team</h2>
+						<p>WE FIND THE BEST AVAILABLE BUSINESS ENERGY DEAL FOR YOU</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-sm-6">
@@ -35,7 +35,7 @@
 									</a>
 								</div>
 								<div class="dlab-info">
-									<h4 class="dlab-title"><a href="javascript:;">Nashid Martines</a></h4>
+									<h4 class="dlab-title"><a href="javascript:;">Rubina Irin</a></h4>
 									<span class="dlab-position">Director</span>
 									<ul class="dlab-social-icon dez-border">
 										<li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
@@ -54,8 +54,8 @@
 									</a>
 								</div>
 								<div class="dlab-info">
-									<h4 class="dlab-title"><a href="javascript:;">Konne Backfield</a></h4>
-									<span class="dlab-position">Designer</span>
+									<h4 class="dlab-title"><a href="javascript:;">Moniruzzaman Tanim</a></h4>
+									<span class="dlab-position">Sales Manager</span>
 									<ul class="dlab-social-icon dez-border">
 										<li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
 										<li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
@@ -73,8 +73,8 @@
 									</a>
 								</div>
 								<div class="dlab-info">
-									<h4 class="dlab-title"><a href="javascript:;">Hackson Willingham</a></h4>
-									<span class="dlab-position">Developer</span>
+									<h4 class="dlab-title"><a href="javascript:;">Harun Or Rashid Milon</a></h4>
+									<span class="dlab-position">Sales Executive</span>
 									<ul class="dlab-social-icon dez-border">
 										<li><a class="fa fa-facebook" href="javascript:void(0);"></a></li>
 										<li><a class="fa fa-twitter" href="javascript:void(0);"></a></li>
@@ -94,3 +94,5 @@
 		<!-- contact area END -->
     </div>
     <!-- Content END-->
+
+    <br><br>

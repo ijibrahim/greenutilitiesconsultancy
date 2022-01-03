@@ -16,14 +16,17 @@ if(isset($_GET["page"])){
               
     }elseif($page=="team"){
         include("pages/team.php");
+        $i = 'team';
         $not_found=1; 
               
     }elseif($page=="payment-solution"){
         include("pages/payment-solution.php");
+        $i = 'payment-solution';
         $not_found=1; 
               
     }elseif($page=="contact"){
         include("pages/contact.php");
+        $i = 'contact';
         $not_found=1;
 
     }elseif($not_found){

@@ -26,8 +26,10 @@
 						<div class="col-lg-8 col-md-12">
 							<div class="section-head text-black">
 								<h4 class="text-gray-dark font-weight-300 m-b10">Expertise</h4>
-								<h2 class="title">Completely customizable high-quality robust websites</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<h2 class="title text-uppercase">We Guarantee 100% client satisfaction</h2>
+								<p class="text-justify">Our experienced team offer professional and friendly support to our clients, always ensuring we provide an exceptional utility consultancy service.
+								We are a leading light in the business utility sector, committed to operating our entire business with trust, transparency and accountability.
+								We achieve this by providing training and development for our people, educating them on honesty and integrity, and investing in bespoke systems to support us to continuously deliver on our promises to clients.</p>
 							</div>
 							<div class="section-content row">
 								<div class="col-lg-6 col-md-6 service-box style3">
@@ -36,8 +38,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-robot-arm"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Mechanical Works</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte">Commercial Electricity</h2>
+											<p> If your business electricity costs are not competitive, contact us today. <br><br> </p>
 										</div>
 									</div>
 								</div>
@@ -47,8 +49,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-factory-1"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Power &amp; Energy</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte">Commercial Gas</h2>
+											<p> If your business gas costs are soaring, contact us today. We’ll help you turn the tap down on your gas bills. </p>
 										</div>
 									</div>
 								</div>
@@ -58,8 +60,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-fuel-station"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Petroleum Refinery</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte">Commercial Water</h2>
+											<p> We continue to monitor water charges to ensure bills are invoiced correctly. Contact us today. </p>
 										</div>
 									</div>
 								</div>
@@ -69,8 +71,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-fuel-truck"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Oil &amp; Gas Industry</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte">Energy Management</h2>
+											<p> In a time when energy markets and costs are very volatile, we help you to manage your usage and bills. </p>
 										</div>
 									</div>
 								</div>
@@ -80,8 +82,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-conveyor-1"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Automative Manufacturing</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte">Bills Validation</h2>
+											<p> Save your time and make sure you pay how much you used. <br><br><br> </p>
 										</div>
 									</div>
 								</div>
@@ -91,8 +93,8 @@
 											<a href="javascript:void(0);" class="icon-cell"><i class="flaticon-engineer-1"></i></a>
 										</div>
 										<div class="icon-content">
-											<h2 class="dlab-tilte">Chemical Research</h2>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+											<h2 class="dlab-tilte"> Meter Installation</h2>
+											<p> We are able to assist with new meter installations and setting up contracts for new supplies. Please contact us for a quotation. </p>
 										</div>
 									</div>
 								</div>
@@ -102,13 +104,13 @@
 							<div class="sticky-top m-b30">
 								<form class="inquiry-form inner">
 									<h3 class="title m-t0 m-b10">Let's Convert Your Idea into Reality</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+									
 									<div class="row">
 										<div class="col-lg-6 col-md-6 col-sm-6">
 											<div class="form-group">
 												<div class="input-group">
 													<span class="input-group-addon"><i class="ti-user text-primary"></i></span>
-													<input name="dzName" type="text" required class="form-control" placeholder="First Name">
+													<input name="dzName" type="text" required class="form-control" placeholder="Full Name">
 												</div>
 											</div>
 										</div>
@@ -120,35 +122,40 @@
 												</div>
 											</div>
 										</div>
+
+										<div class="col-lg-12 col-md-12">
+											<div class="form-group">
+												<div class="input-group">
+													<span class="input-group-addon"><i class="ti-check-box text-primary"></i></span>
+													<select>
+														<option disabled selected>Select Service Type</option>
+														<option>Commercial Electricity</option>
+														<option>Commercial Gas</option>
+														<option>Commercial Water</option>
+														<option>Energy Management</option>
+														<option>Bills Validation</option>
+														<option>Meter Installation</option>
+														<option>Card Machine</option>
+														<option>E-POS</option>
+														<option>Payment Gateway</option>
+													</select>
+												</div>
+											</div>
+										</div>
 										<div class="col-lg-12 col-md-12 col-sm-12">
 											<div class="form-group">
 												<div class="input-group"> 
 													<span class="input-group-addon"><i class="ti-email text-primary"></i></span>
-													<input name="dzEmail" type="email" class="form-control" required  placeholder="Your Email Id" >
+													<input name="dzEmail" type="email" class="form-control" required  placeholder="Email Id" >
 												</div>
 											</div>
 										</div>
-										<div class="col-lg-6 col-md-6 col-sm-6">
-											<div class="form-group">
-												<div class="input-group">
-													<span class="input-group-addon"><i class="ti-check-box text-primary"></i></span>
-													<input name="dzOther[Subject]" type="text" required class="form-control" placeholder="Upload File">
-												</div>
-											</div>
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-6">
-											<div class="form-group">
-												<div class="input-group">
-													<span class="input-group-addon"><i class="ti-file text-primary"></i></span>
-													<input name="dzOther[Subject]" type="text" required class="form-control" placeholder="Upload File">
-												</div>
-											</div>
-										</div>
+									
 										<div class="col-lg-12 col-md-12 col-sm-12">
 											<div class="form-group">
 												<div class="input-group">
 													<span class="input-group-addon"><i class="ti-agenda text-primary"></i></span>
-													<textarea name="dzMessage" rows="4" class="form-control" required placeholder="Tell us about your project or idea"></textarea>
+													<textarea name="dzMessage" rows="4" class="form-control" required placeholder="Tell us about your query"></textarea>
 												</div>
 											</div>
 										</div>
@@ -164,7 +171,7 @@
 			</div>
             <!-- Our Services -->
 			<!-- Why Chose Us -->
-			<div class="section-full content-inner-1 overlay-black-dark about-8-service bg-img-fix" style="background-image:url(images/background/bg1.jpg);">
+			<!-- <div class="section-full content-inner-1 overlay-black-dark about-8-service bg-img-fix" style="background-image:url(images/background/bg1.jpg);">
 				<div class="container">
 					<div class="section-head text-white text-center">
 						<h2 class="title-box m-tb0 max-w800 m-auto">Amazing things happen to your business when we connect those dots of utility and value <span class="bg-primary"></span></h2>
@@ -224,10 +231,10 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- Why Chose Us End -->
 			<!-- Testimonials -->
-			<div class="section-full content-inner wow fadeIn" data-wow-delay="0.4s">
+			<!-- <div class="section-full content-inner wow fadeIn" data-wow-delay="0.4s">
 				<div class="container">
 					<div class="section-head text-center">
 						<h2 class="title">Our Testimonials</h2>
@@ -269,10 +276,12 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- Testimonials END -->
 
 		</div>
 		<!-- contact area END -->
     </div>
     <!-- Content END-->
+
+    <br><br>

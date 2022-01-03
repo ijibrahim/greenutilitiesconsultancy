@@ -12923,7 +12923,7 @@ ol.commentlist li .star-rating {
     width: 100%;
     max-width: 100%;
     min-width: 100%;
-    height: 100%;
+    height: 80%;
 }
 /* sp */
 .row.sp80,
@@ -14247,3 +14247,15 @@ ol.commentlist li .star-rating {
 		opacity: 0.1;
 	}
 }
+
+
+/*
+    Author : Muhammad Ibrahim Bin Karim
+    Footer
+
+*/
+
+
+
+
+

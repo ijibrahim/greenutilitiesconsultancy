@@ -811,7 +811,7 @@ footer .footer-bottom .fa-heart{
 	font-size: 16px;
 }
 .about-industry .img-cover{
-	min-height:500px;
+	min-height:300px;
 }
 /* Service Box Style3 */
 .service-box.style3 .icon-bx-wraper{
@@ -1650,7 +1650,7 @@ footer .footer-bottom .fa-heart{
 	content:none;
 }
 .site-footer.style1 .list-2 li a{
-	text-decoration: underline;
+	text-decoration: none;
 }
 .site-footer.style1 .widget_subscribe p{
 	margin-bottom:20px;

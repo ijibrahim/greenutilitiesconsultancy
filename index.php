@@ -3,11 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="keywords" content="" />
+	<meta name="keywords" content="Green Utilities, Green Utilities Consultancy LTD, Rubina Irin, Moniruzzaman Tanim, Harun Or Rashid Milon, devsstream, devsstream ltd,  Green Utilities uk, electricity service, gas services, services" />
 	<meta name="author" content="Md Ibrahim Bin Karim" />
 	<meta name="robots" content="" />
-	<meta name="description" content="Green Utilities" />
-	<meta name="format-detection" content="telephone=no">
+	<meta name="description" content="Green Utilities Consultancy LTD. launched in 2015. Our office based in Essex, where we have helped many UK businesses across different sectors to reduce their energy bills." />
+	<meta name="format-detection" content="telephone=+441708705703">
 	
 	<!-- FAVICONS ICON -->
 	<link rel="icon" href="images/logo.png" type="image/x-icon" />
@@ -33,10 +33,31 @@
 	<!-- Google Font -->
 	<style>
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+
+	.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:80px;
+	right:20px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
 	</style>
 	
 	<!-- REVOLUTION SLIDER CSS -->
 	<link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/revolution.min.css">
+<!-- whatsapp -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	
 </head>
 <body id="bg">
@@ -49,7 +70,9 @@
 		include("body.php");
 		include('common/footer.php');
 	?>
-
+	<a href="https://wa.me/+447956308197" class="float" target="_blank">
+	<i class="fa fa-whatsapp my-float"></i>
+	</a>
     <button class="scroltop icon-up" type="button"><i class="fa fa-arrow-up"></i></button>
 </div>
 <!-- JAVASCRIPT FILES ========================================= -->
@@ -58,7 +81,6 @@
 <script src="plugins/bootstrap/js/popper.min.js"></script><!-- BOOTSTRAP.MIN JS -->
 <script src="plugins/bootstrap/js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
 <script src="plugins/bootstrap-select/bootstrap-select.min.js"></script><!-- FORM JS -->
-<script src="plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
 <script src="plugins/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
 <script src="plugins/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
 <script src="plugins/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
