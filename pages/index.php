@@ -68,6 +68,10 @@
 									</div>
 								</div>
 								<div class="col-lg-12 col-md-12">
+									<input type="checkbox" id="gdpr" name="gdpr" value="Bike" required>
+  									<label for="gdpr">By continuing to use this, you agree to our GDPR policy</label><br>
+								</div>								
+								<div class="col-lg-12 col-md-12">
 									<button name="submit" type="submit" value="Submit" class="site-button button-md"> <span>Get A Free Quote!</span> </button>
 								</div>
 							</div>
