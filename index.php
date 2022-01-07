@@ -12,9 +12,9 @@
 	<!-- FAVICONS ICON -->
 	<link rel="icon" href="images/logo.png" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="images/logo.png" />
-	
+	    <script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async></script>
 	<!-- PAGE TITLE HERE -->
-	<title>Green Utilities</title>
+	<title>Green Utilities Consultancy LTD</title>
 	
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
 	<link rel="stylesheet" type="text/css" href="css/templete.css">
 
 	<!-- Google Font -->
-	<style>
+<style>
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Playfair+Display:400,400i,700,700i,900,900i|Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
 
 	.float{
@@ -53,9 +53,7 @@
 	margin-top:16px;
 }
 	</style>
-	
-	<!-- REVOLUTION SLIDER CSS -->
-	<link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/revolution.min.css">
+		
 <!-- whatsapp -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	
@@ -72,6 +70,7 @@
 	?>
 	<a href="https://wa.me/+447956308197" class="float" target="_blank">
 	<i class="fa fa-whatsapp my-float"></i>
+	
 	</a>
     <button class="scroltop icon-up" type="button"><i class="fa fa-arrow-up"></i></button>
 </div>
@@ -99,17 +98,10 @@
 <!-- REVOLUTION JS FILES -->
 <script src="plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
 <script src="plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<!-- Slider revolution 5.0 Extensions  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="plugins/revolution/revolution/js/extensions/revolution.extension.video.min.js"></script>
 
-<script src="js/rev.slider.js"></script>
+
+
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script>
 jQuery(document).ready(function() {
 	'use strict';

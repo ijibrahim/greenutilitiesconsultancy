@@ -65,10 +65,10 @@
 						</div>
                         <ul class="nav navbar-nav">	
 							<li class="active"> <a href="index">Home</a></li>
-							<li class=""> <a href="about">About</a></li>
 							<li class=""> <a href="services">Services</a></li>
 							<!-- <li class=""> <a href="team">Team</a></li> -->
 							<li class=""> <a href="payment-solution">Payment Solution</a></li>
+							<li class=""> <a href="about">About</a></li>
 							<li class=""> <a href="contact">Contact</a></li>
 							
 						</ul>		

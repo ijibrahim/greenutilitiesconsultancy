@@ -1248,3 +1248,9 @@ jQuery(window).on('resize',function () {
 	Industry.resize();
 });
 /*  Window Resize END */
+
+
+
+
+
+
