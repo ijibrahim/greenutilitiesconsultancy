@@ -3,12 +3,12 @@
     use PHPMailer\PHPMailer\PHPMailer;
 
     if(isset($_POST['name']) && isset($_POST['phone']) && isset($_POST['service']) && isset($_POST['email']) && isset($_POST['body']) && isset($_POST['gdpr'])){
-        $name = $_POST['name'];
-        $phone = $_POST['phone'];
-        $service = $_POST['service'];
-        $email = $_POST['email'];
-        $body = $_POST['body'];
-        $gdpr = $_POST['gdpr'];
+        $name = htmlspecialchars($_POST['name']);
+        $phone = htmlspecialchars($_POST['phone']);
+        $service = htmlspecialchars($_POST['service']);
+        $email = htmlspecialchars($_POST['email']);
+        $body = htmlspecialchars($_POST['body']);
+        $gdpr = htmlspecialchars($_POST['gdpr']);
 
         if (preg_match("/^[a-zA-Z0-9]*[@][a-z0-9]{2,}[.][a-z]{2,3}$/", $email)) {
             
