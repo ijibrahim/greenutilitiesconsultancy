@@ -291,7 +291,7 @@
 								</div>
 								<div class="icon-content">
 									<div class="dlab-separator bg-primary"></div>
-									<h2 class="dlab-tilte counter">1000</h2>
+									<h2 class="dlab-tilte counter">1054</h2>
 									<p>BUSINESS CUSTOMER </p>
 								</div>
 							</div>
@@ -303,7 +303,7 @@
 								</div>
 								<div class="icon-content">
 									<div class="dlab-separator bg-primary"></div>
-									<h2 class="dlab-tilte counter">7</h2>
+									<h2 class="dlab-tilte counter">10</h2>
 									<p>SUPPLIER</p>
 								</div>
 							</div>
@@ -315,7 +315,7 @@
 								</div>
 								<div class="icon-content">
 									<div class="dlab-separator bg-primary"></div>
-									<h2 class="dlab-tilte counter">6</h2>
+									<h2 class="dlab-tilte counter">451</h2>
 									<p>SERVING SUCCESSFULLY</p>
 								</div>
 							</div>
@@ -327,7 +327,7 @@
 								</div>
 								<div class="icon-content">
 									<div class="dlab-separator bg-primary"></div>
-									<h2 class="dlab-tilte counter">45%</h2>
+									<h2 class="dlab-tilte counter">35%</h2>
 									<p>Average Saving</p>
 								</div>
 							</div>
