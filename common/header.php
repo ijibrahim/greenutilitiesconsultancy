@@ -64,7 +64,7 @@
 							<a href="index.html"><img src="images/logo.png" alt=""></a>
 						</div>
                         <ul class="nav navbar-nav">	
-							<li class="active"> <a href="index">Home</a></li>
+							<li class=""> <a href="index">Home</a></li>
 							<li class=""> <a href="services">Services</a></li>
 							<!-- <li class=""> <a href="team">Team</a></li> -->
 							<li class=""> <a href="payment-solution">Payment Solution</a></li>

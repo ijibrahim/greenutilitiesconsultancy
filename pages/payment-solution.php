@@ -40,9 +40,8 @@
 						<div class="service-box style2">
 							<div>
 								<h2 class="title text-black text-uppercase">Card Machine</h2>
-								<!-- <p class="text-justify">Also known as an electronic point of sale system, it makes it easier to take payments and manage your business by providing sales reports, stock control, accounting and staff management.
-								This system can be customized to your business’ needs and uses up-to-minute technology. It can work independently or work with your current devices once integrated.</p> -->
-								<p class="text-justify">We work with the ISO Paymentsave who partnered with the Acquirer Bank Elavon (Santander Bank). For high-risk businesses, we work with EMP (E-merchant Pay) through Paymentsave.</p>
+								
+								<p class="text-justify">A card machine is a device that reads credit and debit cards in order to process and complete a transaction such as a sale or withdrawal. We work with the ISO Paymentsave who partnered with the Acquirer Bank Elavon (Santander Bank). For high-risk businesses, we work with EMP (E-merchant Pay) through Paymentsave.</p>
 							</div>
 						</div>
 					</div>
@@ -52,7 +51,7 @@
 						<div class="service-box style2">
 							<div>
 								<h2 class="title text-black text-uppercase">E-POS</h2>
-								<p class="text-justify">A simple and secure process. Accepting payments through shopping carts is a great way to attract more customers and make the process easy for them. It also allows you to accept orders 24/7! Your customers will be taken to a secure web page that can be customized to keep in line with the theme of the rest of your site, where they can make payment.</p>
+								<p class="text-justify">An EPOS system is like a cash till/ cash register that is connected to a computer. The EPOS system reads the product barcode via a barcode scanner and calculates the amount that the customer has to pay. This provides accurate pricing information while offering a faster service to buyers.</p>
 							</div>
 						</div>
 					</div>
@@ -66,9 +65,9 @@
 						<div class="service-box style2">
 							<div>
 								<h2 class="title text-black text-uppercase">Payment Gateway</h2>
-								<!-- <p class="text-justify">Payment gateways are the services that authorize credit card payments for online and offline businesses. It is the equivalent of a physical point-of-sale (pos) terminal in a shop or restaurant. It lets your customer submit their credit card details and then securely passes this information from the customer to the merchant and then between the merchant and the bank. You can start to take debit and credit card payments through our card machine.</p> -->
+								
 								<p class="text-justify">
-									We work with ISO Paymentsave who is partnered with Cardstream and OPAYO (Elavon) for payment gateway.
+									A payment gateway is a technology used by merchants to accept debit or credit card purchases from customers. We work with ISO Paymentsave who is partnered with Cardstream and OPAYO (Elavon) for payment gateway. It provides a secure and reliable Payment Gateway for your business.
 								</p>
 							</div>
 						</div>

@@ -225,6 +225,21 @@
 			</div>
 			<!-- About Us End -->
 
+			<section class="bg-primary">
+				<div class="container">
+					<div class="row pt-3">
+					
+						<div class="col-md-9">
+							<h3 class="text-white">Buy your own terminal with prepaid business card</h3>
+						</div>
+						<div class="col-md-3">
+							<a href="contact" class="btn btn-primary"> Find Out More <i class="fa fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+			</section>
+
+
 			<!-- Our Projects  -->
 			<div class="section-full bg-img-fix content-inner-2 overlay-gradient contact-action style2" style="background-image:url(images/background/bg2.jpg); background-size:cover; background-position: center;">
 				<div class="container">
